@@ -1,0 +1,30 @@
+{
+    "0": {
+      "name": "Nitrogen (N)",
+      "cause": " Nitrogen is a critical component of chlorophyll, the pigment responsible for photosynthesis. It is also an essential building block of proteins, DNA, and RNA. A lack of nitrogen can result in stunted growth, reduced yield, and poor plant quality. Nitrogen is often the most limiting nutrient in agricultural soils, and it is typically supplied to plants in the form of fertilizer."
+    },
+    "1": {
+      "name": "Phpsphorus (P)",
+      "cause": "Phosphorus is an essential component of ATP (adenosine triphosphate), the molecule that provides energy for cellular processes. It is also a crucial element in the formation of nucleic acids, phospholipids, and several other organic molecules. Plants deficient in phosphorus exhibit stunted growth, reduced root development, and often have poor flowering and fruiting."
+    },
+    "2": {
+      "name": "Potassium (K)",
+      "cause": "Potassium plays a critical role in regulating water movement in plant cells and is essential for many enzymatic reactions. It also helps plants to tolerate stress by improving water use efficiency and enhancing disease resistance. A deficiency in potassium can lead to reduced growth, wilting, and increased susceptibility to pests and diseases."
+    },
+    "3":{
+      "name":"Calcium (Ca)",
+      "cause":"Calcium is necessary for plant cell wall formation and structural stability. It also plays a vital role in cell division and elongation, as well as in the activation of enzymes. Calcium deficiency can result in poor root development, leaf tip burn, and even death of the growing points of the plant."
+    },
+
+    "4":{
+      "name":"Magnesium (Mg)",
+      "cause":"Magnesium is a component of the chlorophyll molecule and is necessary for photosynthesis. It is also involved in many enzymatic reactions, including the activation of ATP. Plants deficient in magnesium exhibit interveinal chlorosis, where the leaves become yellow between the veins, and may also have reduced growth."
+    },
+
+    "5":{
+      "name":"Sulfur (S)",
+      "cause":"Sulfur is a component of several amino acids and is necessary for protein synthesis. It is also involved in the formation of chlorophyll and the regulation of plant metabolism. Plants deficient in sulfur may exhibit stunted growth, chlorosis, and poor flowering and fruiting."
+    }
+
+
+  }

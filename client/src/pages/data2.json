@@ -1,0 +1,119 @@
+{
+  "0": {
+    "name": "Rice",
+    "description": "Rice is a staple food for many people around the world, and is a key ingredient in many cuisines. It is grown in flooded fields, which helps to control weeds and pests, and can be harvested by hand or by machine. Rice plants require a lot of water, so they are often grown in regions with high rainfall or near rivers and lakes.",
+    "cultivation": "Rice can be grown in both wetland and upland environments. In wetland environments, the fields are flooded with water during the growing season. In upland environments, the fields are not flooded, but instead are irrigated with water from nearby sources. Rice is typically planted in the spring, and requires plenty of sunlight, water, and nutrients. It is important to control weeds and pests throughout the growing season, and to harvest the rice before it is fully mature."
+  },
+  "1": {
+    "name": "Maize",
+    "description": "Maize, also known as corn, is a versatile crop that is used for food, feed, and fuel. It is grown in many parts of the world, and can be harvested by hand or by machine. Maize plants require plenty of sunlight and nutrients, and can be grown in a variety of soil types.",
+    "cultivation": "Maize is typically planted in the spring, and requires plenty of sunlight, water, and nutrients. It is important to control weeds and pests throughout the growing season, and to harvest the maize when the ears are fully mature. Maize can be harvested by hand or by machine, depending on the size of the field and the available resources."
+  },
+  "2": {
+    "name": "Chickpea",
+    "description": "Chickpeas, also known as garbanzo beans, are a popular legume that is used in many cuisines around the world. They are high in protein and fiber, and can be used in a variety of dishes, including soups, stews, salads, and dips. Chickpeas are grown in many parts of the world, and can be harvested by hand or by machine.",
+    "cultivation": "Chickpeas are typically planted in the spring, and require plenty of sunlight, water, and nutrients. They are often grown in rotation with other crops, such as wheat or barley, to help improve soil fertility. Chickpeas can be harvested by hand or by machine, depending on the size of the field and the available resources."
+  },
+  "3":{
+    "name":"Kidneybeans",
+    "description": "Kidney beans are a type of legume that is high in protein and fiber. They are often used in dishes such as chili, soups, and salads, and are grown in many parts of the world. Kidney beans can be harvested by hand or by machine.",
+    "cultivation": "Kidney beans are typically planted in the spring, and require plenty of sunlight, water, and nutrients. They are often grown in rotation with other crops, such as maize or soybeans, to help improve soil fertility. Kidney beans can be harvested by hand or by machine, depending on the size of the field and the available resources."
+  },
+
+  "4":{
+    "name":"Pigeonpeas",
+    "description": "Pigeonpeas, also known as red gram, tur, or arhar, are a type of legume that are grown for their edible seeds. They are an important crop in many parts of the world, particularly in Africa and Asia, where they are used for food, fuel, and animal feed.",
+      "cultivation": "Pigeonpeas are typically grown in warm, tropical climates with well-drained soil. They require moderate rainfall, and can tolerate drought conditions better than many other crops. The seeds are planted in rows, and the plants are often intercropped with other crops to improve soil fertility and reduce pest pressure. Pigeonpeas can be harvested either by hand or using machines, and can be eaten fresh or dried for later use."
+    },
+
+  "5":{
+    "name":"Mothbeans",
+    "description": "Moth beans are a type of legume that is commonly grown in India and other parts of Asia. They are high in protein and fiber, and can be used in a variety of dishes, including curries and soups. Moth beans are typically smaller than other types of legumes, and are often used in recipes that require a small, tender bean.",
+    "cultivation": "Moth beans are typically planted in the spring, and require plenty of sunlight, water, and nutrients. They are often grown in rotation with other crops, such as rice or sorghum, to help improve soil fertility. Moth beans can be harvested by hand, and are typically ready to harvest within 60-70 days of planting."
+  },
+
+  "6": {
+      "name": "Mungbean",
+      "description": "Mung beans are a type of legume that is commonly used in Asian cuisine. They are high in protein and fiber, and can be used in a variety of dishes, including soups, salads, and stir-fries. Mung beans are typically small and green, and can be cooked in a variety of ways.",
+      "cultivation": "Mung beans are typically planted in the spring, and require plenty of sunlight, water, and nutrients. They are often grown in rotation with other crops, such as rice or maize, to help improve soil fertility. Mung beans can be harvested by hand or by machine, depending on the size of the field and the available resources."
+  },
+  "7": {
+      "name": "Blackgram",
+      "description": "Black gram, also known as urad dal, is a type of legume that is commonly used in Indian cuisine. It is high in protein and fiber, and can be used in a variety of dishes, including soups, curries, and dals. Black gram is typically small and black, and can be cooked in a variety of ways.",
+      "cultivation": "Black gram is typically planted in the spring, and requires plenty of sunlight, water, and nutrients. It is often grown in rotation with other crops, such as rice or maize, to help improve soil fertility. Black gram can be harvested by hand or by machine, depending on the size of the field and the available resources."
+  },
+  "8": {
+      "name": "Lentil",
+      "description": "Lentils are a type of legume that are commonly used in many cuisines around the world. They are high in protein and fiber, and can be used in a variety of dishes, including soups, stews, and curries. Lentils are typically small and round, and can be cooked in a variety of ways.",
+      "cultivation": "Lentils are typically planted in the spring, and require plenty of sunlight, water, and nutrients. They are often grown in rotation with other crops, such as wheat or barley, to help improve soil fertility. Lentils can be harvested by hand or by machine, depending on the size of the field and the available resources."
+  },
+  "9":{
+      "name":"Pomegranate",
+      "description": "Pomegranates are round, red fruits with a tough outer layer and juicy seeds inside. They are high in antioxidants and other nutrients, and are commonly used in cooking and juicing.",
+      "cultivation": "Pomegranates prefer warm, dry climates and well-drained soil. They can be grown from seed or from cuttings. Pruning and fertilization are important for proper growth and fruit production."
+  },
+
+  "10":{
+      "name":"Banana",
+      "description": "Bananas are long, curved fruits with a soft, sweet flesh inside. They are rich in vitamins and minerals, and are a popular food around the world.",
+      "cultivation": "Bananas grow best in warm, humid climates with plenty of rainfall. They are typically grown from suckers, or offshoots, of a mature plant. Fertilization and regular pruning are important for proper growth and fruit production."
+  },
+  "11": {
+      "name": "Mango",
+      "description": "Mangos are large, oval fruits with a sweet, juicy flesh inside. They are rich in vitamins and minerals, and are used in many different types of cuisine.",
+    "cultivation": "Mangos grow best in warm, tropical climates with plenty of sunshine and well-drained soil. They can be grown from seed or from grafts of a mature plant. Regular pruning and fertilization are important for proper growth and fruit production."
+  },
+  "12": {
+      "name": "Grapes",
+      "description": "Grapes are small, sweet fruits that grow in bunches on vines. They are high in vitamins and antioxidants, and are used for making wine, juice, and other food products.",
+    "cultivation": "Grapes grow best in warm, sunny climates with well-drained soil. They are typically grown from cuttings or grafts of a mature plant. Pruning and trellising are important for proper growth and fruit production."
+  },
+  "13": {
+      "name": "Watermelon",
+      "description": "Watermelons are large, round fruits with a juicy, sweet flesh inside. They are high in vitamins and minerals, and are a popular summertime treat.",
+    "cultivation": "Watermelons prefer warm, sunny climates with well-drained soil. They are typically grown from seed, and require plenty of water and fertilization. Regular pruning and trellising are important for proper growth and fruit production."
+  },
+  "14":{
+      "name":"Muskmelon",
+      "description": "Muskmelons are round, sweet fruits with a soft, juicy flesh inside. They are high in vitamins and minerals, and are commonly used in fruit salads and other dishes.",
+    "cultivation": "Muskmelons prefer warm, sunny climates with well-drained soil. They are typically grown from seed, and require plenty of water and fertilization. Regular pruning and trellising are important for proper growth and fruit production."
+  },
+
+  "15":{
+      "name":"Apple",
+      "description": "Apples are round or oval fruits with a crisp, juicy flesh inside. They are high in fiber, vitamins, and antioxidants, and are a popular fruit around the world.",
+    "cultivation": "Apples grow best in temperate climates with well-drained soil. They are typically grown from grafts of a mature plant. Pruning and fertilization are important for proper growth and fruit production, and pest and disease management is also important."
+  },
+  "16": {
+      "name": "Orange",
+      "description": "Oranges are a citrus fruit with a sweet and sour taste. They are rich in Vitamin C and are used in juices, salads, and many other recipes. Oranges are usually grown in subtropical and tropical climates, and they prefer well-drained soil with a pH range of 6.0-7.5. They need to be watered regularly, especially during the growing season, and require a lot of sunlight.",
+    "cultivation": "Oranges are usually grown from cuttings or by grafting. They should be planted in a sunny area with well-drained soil. When planting, make sure to dig a hole large enough to accommodate the root ball. Oranges need to be watered regularly, but make sure not to overwater them as they don't like to sit in water. Fertilize the trees with a citrus-specific fertilizer every three months or so."
+  },
+  "17": {
+      "name": "Papaya",
+      "description": "Papayas are a tropical fruit with a sweet taste and soft texture. They are rich in Vitamin C, potassium, and fiber, and are used in juices, smoothies, and many other recipes. Papayas are usually grown in tropical climates and prefer well-drained soil with a pH range of 6.0-7.0. They need to be watered regularly, especially during the growing season, and require a lot of sunlight.",
+    "cultivation": "Papayas are usually grown from seeds or by planting seedlings. They should be planted in a sunny area with well-drained soil. When planting, make sure to dig a hole large enough to accommodate the root ball. Papayas need to be watered regularly, but make sure not to overwater them as they don't like to sit in water. Fertilize the trees with a balanced fertilizer every three months or so."
+  },
+  "18": {
+      "name": "Coconut",
+      "description": "Coconuts are a tropical fruit with a sweet and nutty taste. They are rich in fiber, iron, and potassium, and are used in many recipes and coconut products like coconut oil and coconut milk. Coconuts are usually grown in tropical climates and prefer well-drained soil with a pH range of 5.0-8.0. They need to be watered regularly, especially during the growing season, and require a lot of sunlight.",
+    "cultivation": "Coconuts are usually grown from seed. They should be planted in a sunny area with well-drained soil. When planting, make sure to dig a hole large enough to accommodate the coconut. Coconuts need to be watered regularly, but make sure not to overwater them as they don't like to sit in water. Fertilize the trees with a balanced fertilizer every three months or so."
+  },
+  "19":{
+      "name":"Cotton",
+      "description": "Cotton is a soft, fluffy fiber that grows in a boll, or protective capsule, around the seeds of cotton plants of the genus Gossypium. It is one of the most important cash crops in the world, and is used to make a variety of products including clothing, bedding, and industrial materials.",
+      "cultivation": "Cotton is typically grown in warm, humid climates with well-drained soil. It requires a lot of water, so irrigation is often necessary. The seeds are planted in rows and the plants are spaced out to allow for growth. Cotton is often grown using genetically modified seeds, which are resistant to pests and herbicides. Harvesting usually takes place in the fall, and involves picking the cotton by hand or using machines."
+      },
+  "20": {
+      "name": "Jute",
+      "description": "Jute is a long, soft, shiny vegetable fiber that is spun into coarse, strong threads. It is primarily grown in Bangladesh, India, and China, and is used to make a variety of products including bags, carpets, and clothing.",
+        "cultivation": "Jute is typically grown in floodplains or other areas with high soil moisture. It requires warm temperatures and plenty of rainfall. The seeds are planted in rows and the plants are spaced out to allow for growth. Jute is often intercropped with other crops to improve soil fertility and reduce pest pressure. Harvesting usually takes place in the summer, and involves cutting the plants at the base and leaving them to soak in water for a few days to loosen the fibers."
+      },
+  "21":{
+      "name":"Coffee",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. It is one of the most widely consumed beverages in the world, and is grown in more than 50 countries.",
+      "cultivation": "Coffee is typically grown in tropical climates with plenty of rainfall and sunshine. It requires well-drained soil and regular pruning to promote growth. The seeds are planted in rows and the plants are spaced out to allow for growth. Coffee is often intercropped with other crops to improve soil fertility and reduce pest pressure. Harvesting usually takes place in the fall, and involves picking the coffee cherries by hand or using machines."
+      }
+
+}
+

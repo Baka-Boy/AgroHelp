@@ -1,0 +1,106 @@
+{
+  "0": {
+    "name": "Blight",
+    "scientific_name": "Exserohilum turcicum",
+    "symptoms": "Elongated gray-green or tan lesions on the leaves, often with wavy margins. As the lesions age, they may turn tan and become covered in dark spores. Severe infection can cause leaf tissue to die and dry out, leading to reduced plant growth and yield loss.",
+    "prevention": [
+      "Crop rotation: Avoid planting maize in the same field or area where the disease was previously observed.",
+      "Sanitation: Remove and destroy crop debris after harvest to prevent the fungus from overwintering and spreading.",
+      "Fungicide application: Fungicides can be used to control the disease if necessary. However, this should be done in combination with other control measures.",
+      "Proper fertilization and irrigation: Providing optimal nutrient levels and moisture to the plants can help to maintain plant health and resistance to disease."
+    ],
+    "cause": 
+      "Maize blight, specifically northern corn leaf blight (NCLB), is caused by the fungal pathogen Exserohilum turcicum.The fungus can survive on crop debris, and in soil and plant residue, and can be spread by wind, water, and equipment. The fungus infects maize plants through wounds or natural openings on the leaves, such as stomata. It then grows inside the plant tissue, causing the characteristic lesions that are a sign of the disease. Environmental factors such as high humidity and warm temperatures can promote the development and spread of the disease. In addition to Exserohilum turcicum, other fungal pathogens such as Fusarium verticillioides and Gibberella zeae can also cause diseases in maize, including stalk and ear rot. These diseases can cause significant yield loss and reduce the quality of the harvested crop."
+  },
+  "1": {
+    "name": "Common Rust",
+    "scientific_name": "Puccinia sorghi",
+    "symptoms": "The symptoms of Common Rust include the development of small, reddish-brown, oval-shaped pustules on the leaves, stems, and husks. These pustules may increase in number and size over time, and can rupture and release rust-colored spores. Severe infections can cause leaf and stem tissue to die, resulting in reduced plant growth and yield loss.",
+    "prevention": [
+      "Planting resistant maize varieties: There are several maize varieties available that are resistant to common rust. Planting these varieties can help to prevent the disease from developing and spreading.",
+      "Crop rotation: Avoid planting maize in the same field or area where the disease was previously observed. This can help to reduce the risk of fungal spores surviving in the soil and infecting new crops.",
+      "Fungicide application: If necessary, fungicides can be applied to control the disease. This should be done in combination with other control measures, and according to the manufacturer's instructions.",
+      "Timely planting: Planting maize early in the season can help to avoid peak periods of rust infection, as the disease is favored by warm and humid conditions.",
+      "Good crop management: Practices such as maintaining good soil health, proper irrigation, and appropriate nutrient management can help to maintain plant health and reduce the risk of disease."
+    ],
+    "cause": 
+      "Common rust in maize is caused by the fungus Puccinia sorghi. This fungus can overwinter in crop debris and soil, and can be spread by wind and rain. The fungus infects maize plants through the stomata, which are tiny openings on the surface of the leaves. Once inside the plant, the fungus grows and produces small, reddish-brown, oval-shaped pustules on the leaves, stems, and husks of the maize plant. These pustules contain rust-colored spores that can be spread by wind and rain to other plants. Environmental factors such as high humidity and warm temperatures can promote the development and spread of common rust. The disease can also be favored by factors such as nitrogen deficiency, high plant density, and late planting, which can weaken the plant and make it more susceptible to infection."
+  },
+  "2": {
+    "name": "Gray Leaf Spot",
+    "scientific_name": "Cercospora zeae-maydis",
+    "symptoms": "Symptoms of Gray Leaf Spot in maize include the development of grayish-brown lesions with yellow halos on the leaves. These lesions are initially small and round but can coalesce and cover a large portion of the leaf, leading to reduced plant growth and yield loss. In severe cases, the lesions may also appear on the husks and stalks of the maize plant.",
+    "prevention": [
+      "Practicing \"Come clean, Go clean\"",
+      "Planting resistant maize varieties: There are several maize varieties available that are resistant to Gray Leaf Spot. Planting these varieties can help to prevent the disease from developing and spreading.",
+      "Crop rotation: Avoid planting maize in the same field or area where the disease was previously observed. This can help to reduce the risk of fungal spores surviving in the soil and infecting new crops.",
+      "Fungicide application: Fungicides can be applied to control the disease if necessary. This should be done in combination with other control measures, and according to the manufacturer's instructions.",
+      "Good crop management: Practices such as maintaining good soil health, proper irrigation, and appropriate nutrient management can help to maintain plant health and reduce the risk of disease.",
+      "Timely planting: Planting maize early in the season can help to avoid peak periods of Gray Leaf Spot infection, as the disease is favored by warm and humid conditions."
+    ],
+    "cause":
+      "Gray Leaf Spot in maize is caused by the fungal pathogen Cercospora zeae-maydis. This fungus can overwinter in crop debris and soil, and can be spread by wind and rain. The fungus infects maize plants through the stomata, which are tiny openings on the surface of the leaves. Once inside the plant, the fungus grows and produces grayish-brown lesions with yellow halos on the leaves. These lesions can coalesce and cover a large portion of the leaf, leading to reduced plant growth and yield loss. The fungus can also infect the husks and stalks of the maize plant. Gray Leaf Spot is favored by warm and humid conditions, which promote the growth and spread of the fungus. Environmental factors such as high nitrogen fertility, low soil pH, and poor air circulation can also increase the risk of infection. The disease is most common in regions with high humidity and rainfall."
+  },
+  "3": {
+    "name": "Healthy Maize",
+    "scientific_name": "Healthy",
+    "symptoms": "No Symptoms",
+    "prevention": [""],
+    "cause":  ""
+  },
+  "4": {
+    "name": "Potato Early Blight",
+    "scientific_name": "Alternaria solani",
+    "symptoms": "Foliar symptoms of early blight first appear as small, irregular to circular dark brown spots on the lower (older) leaves.",
+    "prevention": [ "Maintaining optimum growing conditions, including proper fertilization, irrigation, and management of other pests.",
+                  "Grow later maturing, longer season varieties. ","Fungicide application is justified only when the disease is initiated early enough to cause economic loss."
+    ],
+    "cause":  "Infection occurs when spores of the fungus come in contact with susceptible leaves and sufficient free moisture is present. Spore germination and infection are favored by warm weather and wet conditions from dew, rain, or sprinkler irrigation."
+  },
+  "5": {
+    "name": "Potato Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "symptoms": "Late blight will first appear as water-soaked spots, usually at the tips or edges of lower leaves where water or dew tends to collect. Under moist, cool conditions, water-soaked spots rapidly enlarge and a broad yellow halo may be seen surrounding the lesion",
+    "prevention": ["Eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices, and applying fungicides when necessary.",
+        "Air drainage to facilitate the drying of foliage each day is important.",
+      "In districts that are commonly subjected to outbreaks of late blight, preventive applications of fungicides are advised when environmental conditions are favorable for the disease"],
+    "cause":  "Late blight is found when humid conditions coincide with mild temperatures for prolonged periods. When humidity is above 90% and the average temperature is in the range of 60° to 78°F, infection occurs in about 10 hours"
+  },
+  "6": {
+    "name": "Healthy Potato",
+    "scientific_name": "Healthy",
+    "symptoms": "No Symptoms",
+    "prevention": [""],
+    "cause":  ""
+  },
+  "7": {
+    "name": "Apple Scab",
+    "scientific_name": "Venturia inaequalis",
+    "symptoms": "Small spots on the underside of young leaves or as spots on either surface of older leaves. The spots (or lesions) are brown or olive-green and have an indefinite margin at first. The lesions on older leaves are more definite in outline and become velvety-grey to sooty black.",
+    "prevention": ["Choose scab-resistant varieties of apple or crabapple trees.","Rake up and discard any fallen leaves or fruit on a regular basis, and never leave fallen leaves or fruit on the ground over winter. Apple scab fungus overwinters on fallen leaves and fruit.",
+                  "Prune your apple and crabapple trees to keep their crowns open so light and air can move through. Dry leaves and fruit help to prevent initial infection","Plant your apple and crabapple trees correctly, in full sun and with enough space around each tree, according to their mature size. Shade keeps water from evaporating quickly, and crowded trees are more susceptible to the disease.",
+                  "Irrigate your trees in the early morning hours, and don't use overhead sprays that will wet leaves and fruit. Dry leaves won't host the fungus."],
+    "cause":  "Apple scab requires moisture to develop and spread. Rainy or humid weather can create ideal conditions for the disease to thrive. Apple scab is most active during temperatures between 60 and 70 degrees Fahrenheit. This is why the disease is most prevalent in the spring."
+  },
+  "8": {
+    "name": "Apple Black Rot",
+    "scientific_name": "Diplodia seriata",
+    "symptoms": "Large brown rotten areas can form anywhere on the fruit but are most common on the blossom end. Brown to black concentric rings can often be seen on larger infections. The flesh of the apple is brown but remains firm. Small, black spots can be seen on older fruit infections. ",
+    "prevention": ["Prune out dead or diseased branches.","Pick all dried and shriveled fruits remaining on the trees.","Remove infected plant material from the area.","All infected plant parts should be burned, buried or sent to a municipal composting site.","Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores."],
+    "cause":  "Apple black rot thrives in moist conditions. Rainy or humid weather can create ideal conditions for the disease to spread. Apple black rot can infect apples through wounds or cracks in the fruit, as well as through damaged bark or pruning cuts on the tree. Trees that are planted too close together or have dense canopies may be more susceptible to apple black rot."
+  },
+  "9": {
+    "name": "Cedar Apple Rust",
+    "scientific_name": "Gymnosporangium juniperi-virginianae",
+    "symptoms": "Leaf spots are first yellow then turn bright orange-red, often with a bright red border. Small, raised, black dots form in the center of leaf spots on the upper leaf surface when the leaf spots mature. Very short (less than 1/10th inch), finger-like fungal tubes stick out from the lower surface of the leaf, directly below leaf spots.The fungal tubes appear fringed when they open at the tip to release yellow to orange, powdery spores. Rarely, green to brown irregular spots with black dots form on the fruit surface. Fruit spots do not extend deep into the fruit.",
+    "prevention": ["Choose apple tree varieties that are resistant to apple cedar rust. Some of the resistant varieties include Honeycrisp, Liberty, and Redfree.","Apple cedar rust requires both apple and cedar trees to complete its life cycle. Removing infected cedar trees from the area can help prevent the disease from spreading to your apple trees.","Fungicides can be used to prevent apple cedar rust. It's important to choose a fungicide that is labeled for use on apple trees and follow the instructions carefully.","Pruning apple trees can improve air circulation and sunlight penetration, which can help reduce the chances of apple cedar rust infection.","Pruning apple trees can improve air circulation and sunlight penetration, which can help reduce the chances of apple cedar rust infection."],
+    "cause":  "Apple cedar rust thrives in moist conditions. Rainy or humid weather can create ideal conditions for the disease to spread. Apple cedar rust is most active during the spring, when temperatures are between 60 and 70 degrees Fahrenheit. This is when the spores are released from the cedar trees and can infect the apple trees. Apple cedar rust is most active during the spring, when temperatures are between 60 and 70 degrees Fahrenheit. This is when the spores are released from the cedar trees and can infect the apple trees."
+  },
+  "10": {
+    "name": "Healthy Apple",
+    "scientific_name": "Healthy",
+    "symptoms": "No Symptoms",
+    "prevention": [""],
+    "cause":  ""
+  }
+}
